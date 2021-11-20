@@ -1,0 +1,10 @@
+1 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5a6065c58576340017d06615&bg=black&w=300&h=230
+2 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=587460aab807da0011e33cc2&bg=black&w=300&h=230
+3 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=583f958161cfea0012cf68f5&bg=black&w=300&h=230
+4 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=56de42f611f398ec0c48128a&bg=black&w=300&h=230
+5 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad18&bg=black&w=300&h=230
+6 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5fc9e827a461de00163334f8&bg=black&w=300&h=230
+7 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5deb576d1dc17d7c5515ad22&bg=black&w=300&h=230
+8 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=583f958161cfea0012cf68f5&bg=black&w=300&h=230
+9 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cdb9f766c880017188968&bg=black&w=300&h=230
+10 http://giaothong.hochiminhcity.gov.vn:8007/Render/CameraHandler.ashx?id=5d8cdb9f766c880017188968&bg=black&w=300&h=230

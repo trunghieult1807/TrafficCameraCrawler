@@ -1,0 +1,152 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="PyOpenGL" />
+            <item index="1" class="java.lang.String" itemvalue="glfw" />
+            <item index="2" class="java.lang.String" itemvalue="PyOpenGL-accelerate" />
+            <item index="3" class="java.lang.String" itemvalue="numpy" />
+            <item index="4" class="java.lang.String" itemvalue="espnet" />
+            <item index="5" class="java.lang.String" itemvalue="torch" />
+            <item index="6" class="java.lang.String" itemvalue="boto3" />
+            <item index="7" class="java.lang.String" itemvalue="soundfile" />
+            <item index="8" class="java.lang.String" itemvalue="ffmpeg" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W605" />
+          <option value="E501" />
+          <option value="E722" />
+          <option value="E131" />
+          <option value="E721" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N802" />
+          <option value="N812" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="input" />
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="src.run.LexerSuite" />
+          <option value="src.run.ParserSuite" />
+          <option value="src.run.ASTGenSuite" />
+          <option value="src.run.CheckerSuite" />
+          <option value="src.run.CodeGenSuite" />
+          <option value="src.test.TestUtils.lexererr" />
+          <option value="src.test.TestUtils.BKOOLParser" />
+          <option value="src.test.TestUtils.BKOOLLexer" />
+          <option value="target.main.bkool.parser.BKOOLLexer.UnterminatedComment" />
+          <option value="src.test.ASTGenSuite.AST" />
+          <option value="src.test.ASTGenSuite.Program" />
+          <option value="src.test.ASTGenSuite.ClassDecl" />
+          <option value="src.test.ASTGenSuite.Id" />
+          <option value="src.test.ASTGenSuite.AttributeDecl" />
+          <option value="src.test.ASTGenSuite.VarDecl" />
+          <option value="src.test.ASTGenSuite.Instance" />
+          <option value="src.test.ASTGenSuite.IntType" />
+          <option value="src.main.bkool.astgen.ASTGeneration.*" />
+          <option value="BKOOLVisitor" />
+          <option value="BKOOLParser" />
+          <option value="src.test.ASTGenSuite.Static" />
+          <option value="src.test.ASTGenSuite.ConstDecl" />
+          <option value="src.test.ASTGenSuite.IntLiteral" />
+          <option value="src.test.ASTGenSuite.MethodDecl" />
+          <option value="src.test.ASTGenSuite.SelfLiteral" />
+          <option value="src.test.ASTGenSuite.FieldAccess" />
+          <option value="src.test.ASTGenSuite.Return" />
+          <option value="src.test.ASTGenSuite.BinaryOp" />
+          <option value="src.test.ASTGenSuite.FloatType" />
+          <option value="src.test.ASTGenSuite.Block" />
+          <option value="src.test.ASTGenSuite.ArrayType" />
+          <option value="src.test.ASTGenSuite.ClassType" />
+          <option value="src.test.ASTGenSuite.VoidType" />
+          <option value="src.test.ASTGenSuite.Assign" />
+          <option value="src.test.ASTGenSuite.ArrayCell" />
+          <option value="src.test.ASTGenSuite.For" />
+          <option value="src.test.ASTGenSuite.CallStmt" />
+          <option value="src.test.ASTGenSuite.Break" />
+          <option value="src.test.ASTGenSuite.Continue" />
+          <option value="src.test.ASTGenSuite.StringType" />
+          <option value="src.test.ASTGenSuite.CallExpr" />
+          <option value="src.test.ASTGenSuite.UnaryOp" />
+          <option value="src.test.ASTGenSuite.FloatLiteral" />
+          <option value="src.test.ASTGenSuite.NewExpr" />
+          <option value="src.test.ASTGenSuite.If" />
+          <option value="src.test.ASTGenSuite.param" />
+          <option value="src.test.ASTGenSuite.Call" />
+          <option value="src.test.ASTGenSuite.BoolType" />
+          <option value="src.main.bkool.checker.StaticCheck.Visitor" />
+          <option value="src.main.bkool.checker.StaticCheck.Utils" />
+          <option value="src.main.bkool.checker.StaticCheck.AST" />
+          <option value="Utils" />
+          <option value="src.main.bkool.checker.StaticCheck.BaseVisitor" />
+          <option value="src.main.bkool.checker.StaticCheck.IntType" />
+          <option value="src.main.bkool.checker.StaticCheck.VoidType" />
+          <option value="src.main.bkool.checker.StaticCheck.FloatType" />
+          <option value="src.main.bkool.checker.StaticCheck.BoolType" />
+          <option value="src.main.bkool.checker.StaticCheck.StringType" />
+          <option value="src.main.bkool.checker.StaticCheck.ClassType" />
+          <option value="src.main.bkool.checker.StaticCheck.ArrayType" />
+          <option value="src.main.bkool.checker.StaticCheck.MethodDecl" />
+          <option value="src.main.bkool.checker.StaticCheck.AttributeDecl" />
+          <option value="src.main.bkool.checker.StaticCheck.Static" />
+          <option value="src.main.bkool.checker.StaticCheck.ConstDecl" />
+          <option value="src.main.bkool.checker.StaticCheck.VarDecl" />
+          <option value="src.main.bkool.checker.StaticCheck.SelfLiteral" />
+          <option value="src.main.bkool.checker.StaticCheck.Id" />
+          <option value="src.main.bkool.checker.StaticCheck.BreakNotInLoop" />
+          <option value="src.main.bkool.checker.StaticCheck.ContinueNotInLoop" />
+          <option value="src.main.bkool.checker.StaticCheck.vd" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.Visitor" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.AST" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.BaseVisitor" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.IntType" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.VoidType" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.FloatType" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.BoolType" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.StringType" />
+          <option value="upload.src.test.CheckerSuite.AST" />
+          <option value="upload.src.main.bkool.checker.StaticError.AST" />
+          <option value="upload.src.main.bkool.checker.StaticError.ConstDecl" />
+          <option value="upload.src.main.bkool.checker.StaticError.Stmt" />
+          <option value="upload.src.main.bkool.checker.StaticError.Expr" />
+          <option value="upload.src.main.bkool.checker.StaticError.ArrayLiteral" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.ClassType" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.ArrayType" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.MethodDecl" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.AttributeDecl" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.Static" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.ConstDecl" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.VarDecl" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.SelfLiteral" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.Id" />
+          <option value="upload.src.main.bkool.checker.StaticCheck.ArrayLiteral" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
